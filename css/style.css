@@ -1,0 +1,73 @@
+body{
+    margin: auto;
+}
+
+p {
+    margin: 5px;
+}
+
+.contenedor-principal{
+    margin: 20px auto;
+    border: 1px solid #000;
+    width: 60%;
+}
+
+.contenido{
+    margin: 10px auto;
+    width: 100%
+}
+
+.encabezado {
+    margin: 5px auto;
+    background-color: #FCA345;
+    width: 90%;
+    color: #fff;
+    text-align: center;
+}
+
+.info-principal {
+    margin: 3px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.info-persona {
+    margin-left: 30px;
+    width: 60%;
+}
+
+.nombre-persona {
+    font-size: 26px;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.img-persona {
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 25%;
+}
+
+.contenido-datos{
+    margin: 5px auto;
+    width: 90%;
+    border-left: 1px dashed #FCA345;
+    border-right: 1px dashed #FCA345;
+    border-bottom: 1px dashed #FCA345;
+}
+
+.info {
+    margin: 3px auto;
+    background-color: #FCA345;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+}
+
+.redes {
+    margin-left: 5px;
+    display: flex;
+    justify-content: start;
+}
